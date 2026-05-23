@@ -1,0 +1,57 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background:#fff5f8;
+    margin:0;
+}
+
+header{
+    background:#d63384;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+nav{
+    margin-top:10px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    border:1px solid white;
+    padding:6px 12px;
+    border-radius:4px;
+    margin:0 5px;
+}
+/*Zulia Annisa_202432034*/
+
+nav a.active{
+    background:#ff85b3;
+}
+
+main{
+    max-width:800px;
+    margin:auto;
+    padding:30px;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    background:white;
+}
+
+th,td{
+    border:1px solid #ddd;
+    padding:12px;
+    text-align:center;
+}
+
+th{
+    background:#ff85b3;
+    color:white;
+}
+
+tr:nth-child(even){
+    background:#fff0f5;
+}

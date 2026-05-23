@@ -1,0 +1,13 @@
+body{
+    background:linear-gradient(135deg,#ff85b3,#d63384);
+}
+
+.card{
+    border-radius:15px;
+    overflow:hidden;
+}
+
+.nav-link:hover{
+    color:#ffd6e7 !important;
+}
+/*Zulia Annisa_202432034*/ 
